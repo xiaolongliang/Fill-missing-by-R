@@ -1,10 +1,10 @@
 ## This is the all scripts written by R and Python and input and out data
 
-> the input data is DATA.CSV;
+- the input data is DATA.CSV;
 
-### 1. the Fill.finished.script.r is the main script to fill the DATA.CSV;
+### 1. the Fill.finished.script.r is the main script to fill the DATA.CSV
 
-### 2. the variant Age was filled by 00.Age.py:
+### 2. the variant Age was filled by 00.Age.py
 > the input file is be1.csv,output is Age2.txt
 ```shell
     python Age.py age.csv > Age1.txt
